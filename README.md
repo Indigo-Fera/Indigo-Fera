@@ -7,7 +7,8 @@
 </picture>
 
  Hi, my Name is Anghus Henderson, I'm a Software Designer.
-
+<details>
+<summary>My top THINGS-TO-RANK</summary>
 | Rank | Languages I Have Experience In |
 |-----:|---------------|
 |     1|  Visual Basic             |
@@ -16,6 +17,8 @@
 |     4|  Python             |
 |     5|  Java             |
 |     6|  SQL             |
+
+</details>
 
 <!--
 **Indigo-Fera/Indigo-Fera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
